@@ -1,0 +1,43 @@
+.container{
+    margin-bottom: 100px;
+}
+.card{
+    box-shadow: 10px 10px 10px gray;
+}
+#se{
+    background-color: white;
+    width: 100px;
+    box-shadow: 10px 10px 10px gray;
+    width: 150px;
+    border-radius: 8px;
+}
+#fe{
+    margin-bottom: 10px;
+    width: 100px;
+    background-color:white;
+    box-shadow: 10px 10px 10px gray;
+    width: 150px;
+    margin-left: 100px;
+    border-radius: 8px;
+}
+#u{
+    text-align: center;
+}
+#bus{
+    width: 70%;
+    border-radius: 8px;
+}
+.bt{
+    background-color:black ;
+    color: white;
+}
+footer{
+    text-align: center;
+}
+a{
+    color: orange;
+}
+
+
+
+
